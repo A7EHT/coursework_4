@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Junior/Middle DevOps/SRE",
+        "url": "https://api.hh.ru/vacancies/101424248?host=hh.ru",
+        "salary_from": 700000,
+        "salary_to": 0,
+        "currency": "KZT",
+        "description": "Опыт работы с docker/docker-compose/kubernetes. Умение программировать (bash\\<highlighttext>python</highlighttext>) или писать скрипты для автоматизации управления серверами. "
+    },
+    {
+        "name": "Инженер систем мониторинга, системный администратор, DevOps-инженер, SRE, админ систем мониторинга",
+        "url": "https://api.hh.ru/vacancies/102080782?host=hh.ru",
+        "salary_from": 350000,
+        "salary_to": 0,
+        "currency": "KZT",
+        "description": "Управление конфигурациями Ansible. Опыт написание скриптов автоматизации (bash/<highlighttext>python</highlighttext> и др). Хорошее знание TCP/IP стэка, и базовых принципов работы..."
+    },
+    {
+        "name": "Инженер сопровождения / DevOps",
+        "url": "https://api.hh.ru/vacancies/101931427?host=hh.ru",
+        "salary_from": 350000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Владение любым инструментом для написания скриптов bash, <highlighttext>python</highlighttext> и др. Опыт работы с брокерами сообщений, SQL/NoSQL базами данных. "
+    },
+    {
+        "name": "Сетевой инженер",
+        "url": "https://api.hh.ru/vacancies/100477382?host=hh.ru",
+        "salary_from": 275000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Будет плюсом: Наличие сертификата CCNA/CCNP. Владение любым скриптовым языком bash/perl/<highlighttext>python</highlighttext>. Опыт работы с динамической маршрутизацией BGP. "
+    },
+    {
+        "name": "Cистемный администратор Linux\\DevOps",
+        "url": "https://api.hh.ru/vacancies/100609690?host=hh.ru",
+        "salary_from": 250000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Опыт администрирования Linux-ОБЯЗАТЕЛЕН!!!. Знание скриптовых языков Bash, <highlighttext>python</highlighttext> как преимущество. Навыки автоматизации с помощью Ansible/Terraform. Уверенные знания сетевых..."
+    },
+    {
+        "name": "Системный инженер (Системный администратор/DevOps)",
+        "url": "https://api.hh.ru/vacancies/101394098?host=hh.ru",
+        "salary_from": 230000,
+        "salary_to": 260000,
+        "currency": "RUR",
+        "description": "Знание языков для написания простых скриптов (bash, <highlighttext>python</highlighttext>). Опыт работы с GIt и Ansible. Знание Nginx и Docker. "
+    },
+    {
+        "name": "Backend Django Python разработчик",
+        "url": "https://api.hh.ru/vacancies/101125653?host=hh.ru",
+        "salary_from": 210000,
+        "salary_to": 270000,
+        "currency": "RUR",
+        "description": "Уверенное знание <highlighttext>python</highlighttext> django от 6-ти лет, работа с gitlab, jira, postgresql. Понимание REST, websocket, паттернов проектирования, чтение стандартных..."
+    },
+    {
+        "name": "Прикладной администратор по сопровождению АС",
+        "url": "https://api.hh.ru/vacancies/101122558?host=hh.ru",
+        "salary_from": 200000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Умеешь писать код на одном из скриптовых языков bash или <highlighttext>python</highlighttext>. Имеешь опыт сборки проектов на Java/NodeJS."
+    },
+    {
+        "name": "Backend-разработчик (Python, Django)",
+        "url": "https://api.hh.ru/vacancies/101277376?host=hh.ru",
+        "salary_from": 180000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Знание HTML, CSS, JavaScript (верстать не надо, просто понимать). - Опыт парсинга html на <highlighttext>python</highlighttext>. - Опыт взаимодействия с API TG, VK..."
+    },
+    {
+        "name": "Системный администратор 1С (Гибрид 3/2)",
+        "url": "https://api.hh.ru/vacancies/101873486?host=hh.ru",
+        "salary_from": 180000,
+        "salary_to": 300000,
+        "currency": "RUR",
+        "description": "Конфигурирование OpenVPN/WireGuard. Навыки автоматизации задач (скрипты Powershell/<highlighttext>python</highlighttext>/sh). Базовые знание принципов работы серверной инфраструктуры 1С. "
+    },
+    {
+        "name": "Руководитель IT проектов",
+        "url": "https://api.hh.ru/vacancies/100837692?host=hh.ru",
+        "salary_from": 180000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Не обязательно, но будет преимуществом: Опыт работы в проектах со стэком react + <highlighttext>python</highlighttext>. Опыт работы в проектах, связанных с..."
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://api.hh.ru/vacancies/101530002?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": 250000,
+        "currency": "RUR",
+        "description": "Понимание принципов построения распределенных и отказоустойчивых систем. Опыт автоматизации задач по администрированию - bash/<highlighttext>python</highlighttext> scripting. Опыт использования docker. "
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/102200277?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "...оконных функций, вложенных запросов (мы используем MS SQL, Sybase SQL). Опыт работы с системами аналитики, трекинга. Знание <highlighttext>python</highlighttext> будет преимуществом."
+    },
+    {
+        "name": "Middle Python Developer",
+        "url": "https://api.hh.ru/vacancies/102188579?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "currency": "RUR",
+        "description": "Уверенное знание <highlighttext>python</highlighttext> (от 2 лет опыта). Понимание принципов асинхронного программирования. Опыт работы с FastAPI/Django. Опыт работы с PosgtreSQL. "
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/102062708?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Знания современных ИИ, умение работать с API ИИ, в частности chat GPT. Навыки в высоконагруженные сервисы. Backend-stack: <highlighttext>python</highlighttext>, fastapi..."
+    },
+    {
+        "name": "Ведущий разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/101749848?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "currency": "RUR",
+        "description": "Отличные знания linux и командной строки. Опыт использования Docker. Владение стеком <highlighttext>python</highlighttext> (от 3х лет коммерческой разработки). "
+    },
+    {
+        "name": "Инженер по внедрению и сопровождению инфраструктурных проектов",
+        "url": "https://api.hh.ru/vacancies/101999976?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 260000,
+        "currency": "RUR",
+        "description": "Знание скриптовых языков и опыт написания скриптов на Linux (bash), <highlighttext>python</highlighttext>/perl. Хорошее владение утилитами командной строки linux. "
+    },
+    {
+        "name": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/101366864?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "currency": "RUR",
+        "description": "Знание <highlighttext>python</highlighttext>, django, pgadmin, javascript."
+    },
+    {
+        "name": "Тимлид-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/102063743?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "currency": "RUR",
+        "description": "Знания современных ИИ, умение работать с API ИИ, в частности chat GPT. Навыки в высоконагруженные сервисы. Backend-stack: <highlighttext>python</highlighttext>, fastapi..."
+    },
+    {
+        "name": "Системный администратор Windows",
+        "url": "https://api.hh.ru/vacancies/97245463?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 166500,
+        "currency": "RUR",
+        "description": "Опыт администрирования серверов. Опыт администрирования сетевого оборудования. Опыт написания скриптов powershell, <highlighttext>python</highlighttext>. Опыт работы с SQL серверами. Опыт работы с..."
+    }
+]
