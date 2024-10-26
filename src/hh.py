@@ -10,8 +10,8 @@ class HH(Parser):
     """
 
     def __init__(self):
-        self.url = 'https://api.hh.ru/vacancies'
-        self.headers = {'User-Agent': 'HH-User-Agent'}
+        self.__url = 'https://api.hh.ru/vacancies'
+        self.__headers = {'User-Agent': 'HH-User-Agent'}
         self.params = {'text': '', 'page': 0, 'per_page': 100}
         self.vacancies = []
 
@@ -22,7 +22,7 @@ class HH(Parser):
         """
         self.params['text'] = keyword
         while self.params.get('page') != 20:
-            response = requests.get(self.url, headers=self.headers, params=self.params)
+            response = requests.get(self.__url, headers=self.__headers, params=self.params)
             vacancies = response.json()['items']
             self.vacancies.extend(vacancies)
             self.params['page'] += 1
