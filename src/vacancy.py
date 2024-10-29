@@ -9,6 +9,8 @@ class Vacancy:
         self.salary_to = salary_to
         self.currency = currency
         self.description = description
+        self.check_data_int()
+        self.check_data_str()
 
     def __str__(self):
         return (f'============================================================'
