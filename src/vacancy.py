@@ -1,6 +1,6 @@
 class Vacancy:
     """
-    Класс Vacancy, для работы с вакансиями (выгруженными из того или иного места)
+    Класс Vacancy, для работы с вакансиями
     """
     def __init__(self, name, url, salary_from, salary_to, currency, description):
         self.name = name
